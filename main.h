@@ -1,5 +1,5 @@
-#ifndef _main_h_
-#define _main_h_
+#ifndef MAIN_H
+#define MAIN_H
 
 #define BUFSIZE 1025
 #include <stdarg.h>
@@ -32,4 +32,4 @@ void _puts(char *buffer, int size);
 int alloc_buffer(char *hold, int hlen, char *buffer, int blen, double *total);
 char *ctos(char c);
 
-#endif /* _main_h_ */
+#endif
