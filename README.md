@@ -1,3 +1,3 @@
-First group project
-This project is about the printf fucntion
-Group members: Foster Adu-Gyamfi and Rowland Jones
+First ALX Team project.
+This project is about the printf function.
+Group members: Foster Adu-Gyamfi and Rowland Jones.
